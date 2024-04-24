@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title></title>
+	<link rel="stylesheet" type="text/css">
+</head>
+<body>
+	<div class="main">
+<div class="navbar">
+	<img src="" class="logo">
+	<ul>
+		<li><a href="home">home</a> </li>
+		<li><a href="about">about</a> </li>
+		<li><a href="project">project</a> </li>
+		<li><a href="blog"> blog</a> </li>
+		<li><a href="contact">contact</a> </li>
+	</ul>
+</div>
+</div>
+</body>
+</html>
